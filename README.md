@@ -31,4 +31,4 @@ dotnet test Tests/RandevuPlanlayici.Tests.csproj
 
 ## Lisans
 
-Uygulama [MIT lisansı](LICENSE) kapsamında dağıtılır. Figtree yazı tipi [SIL Open Font License](Fonts/OFL.txt) kapsamında dağıtılır.
+Uygulama [MIT lisansı](LICENSE) kapsamında, Figtree yazı tipi [SIL Open Font License](Fonts/OFL.txt) kapsamındadır.
